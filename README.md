@@ -2,8 +2,8 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  | Easy |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | | Medium |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Link](https://github.com/goksuturac/LeetCode/blob/main/Easy/001.TwoSum.py) | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |[Link](https://github.com/goksuturac/LeetCode/blob/main/Medium/002.AddTwoNumbers.py) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | | Hard |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | | Medium |
