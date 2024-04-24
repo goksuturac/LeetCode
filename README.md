@@ -6,7 +6,7 @@
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |[Link](https://github.com/goksuturac/LeetCode/blob/main/Medium/002.AddTwoNumbers.py) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |[Link](https://github.com/goksuturac/LeetCode/blob/main/Medium/003.LongestSubstringWithoutRepeatingCharacters.py) | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |[Link](https://github.com/goksuturac/LeetCode/blob/main/Hard/004.Median_of_TwoSortedArrays.py) | Hard |
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | | Medium |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Link](https://github.com/goksuturac/LeetCode/blob/main/Medium/005.LongestPalindromicSubstring.py)| Medium |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | | Medium |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | | Medium |
