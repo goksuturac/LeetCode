@@ -8,7 +8,7 @@
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |[Link](https://github.com/goksuturac/LeetCode/blob/main/Hard/004.Median_of_TwoSortedArrays.py) | Hard |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Link](https://github.com/goksuturac/LeetCode/blob/main/Medium/005.LongestPalindromicSubstring.py)| Medium |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) |[Link](https://github.com/goksuturac/LeetCode/blob/main/Medium/006ZigzagConversion.py) | Medium |
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | | Medium |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |[Link](https://github.com/goksuturac/LeetCode/blob/main/Medium/007.ReverseInteger.py) | Medium |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | | Easy |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | | Hard |
