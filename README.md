@@ -17,7 +17,7 @@
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |[Link](https://github.com/goksuturac/LeetCode/blob/main/Easy/013.Roman_to_Integer.py)| Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |[Link](https://github.com/goksuturac/LeetCode/blob/main/Easy/014.LongestCommonPrefix.py) | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Link](https://github.com/goksuturac/LeetCode/blob/main/Medium/015.Three_Sum.py)| Medium |
-| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | | Medium |
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Link](https://github.com/goksuturac/LeetCode/blob/main/Medium/016.ThreeSumClosest.py)| Medium |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | | Medium |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | | Medium |
