@@ -21,7 +21,7 @@
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Link](https://github.com/goksuturac/LeetCode/blob/main/Medium/017.LetterCombinationsPhoneNum.py)| Medium |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Link](https://github.com/goksuturac/LeetCode/blob/main/Medium/018.4Sum.py)| Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | | Medium |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | | Easy |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Link](https://github.com/goksuturac/LeetCode/blob/main/Easy/020.ValidParentheses.py) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | | Medium |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | | Hard |
@@ -32,3 +32,5 @@
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | | Easy |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | | Medium |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | | Hard |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Link](https://github.com/goksuturac/LeetCode/blob/main/Easy/125.ValidPalindrome.py)| Easy |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Link](https://github.com/goksuturac/LeetCode/blob/main/Easy/217.ContainsDuplicate.py)| Easy |
