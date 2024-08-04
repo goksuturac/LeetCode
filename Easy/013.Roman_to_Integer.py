@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def romanToInt(self, s: str) -> int:
         char_list = {
